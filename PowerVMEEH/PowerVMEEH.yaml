@@ -1,0 +1,4 @@
+scenario:
+    max_freeze: 6
+    function: 6
+    pci_device: "0018:01:00.0"

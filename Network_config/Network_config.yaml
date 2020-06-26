@@ -1,0 +1,4 @@
+Parameters:
+    interface: "enP24p1s0f0"
+    host_ip: "10.0.0.50"
+    netmask: "255.255.255.0"
